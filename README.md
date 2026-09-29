@@ -1,4 +1,4 @@
-🚀 Project Progress Snapshot
+🚀 
 
 **Linear Regression:** Built and deployed univariate and multivariable predictive models using scikit-learn and pandas.
 
